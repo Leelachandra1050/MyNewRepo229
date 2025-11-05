@@ -1,7 +1,7 @@
 # Simple Python program to greet the user
 
 def greet(kasturi):
-    print(f"Hello, {name}! Welcome to Git and VS Code setup.")
+    print(f"Hello, {leela}! Welcome to Git and VS Code setup.")
 
 if __name__ == "__main__":
     user_name = input("Enter your name: ")
